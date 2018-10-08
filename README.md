@@ -1,6 +1,7 @@
 # Sqoop-Automation
 
 SQOOP− “SQL to Hadoop and Hadoop to SQL”
+
 Sqoop is a tool designed to transfer data between Hadoop and relational database servers. It is used to import data from relational databases such as MySQL, Oracle to Hadoop HDFS, and export from Hadoop file system to relational databases. This is a brief tutorial that explains how to make use of Sqoop in Hadoop ecosystem.
 
 SQOOP Automation is a shell script which performs the operation of sqoop. It performs following Sqoop operations-
